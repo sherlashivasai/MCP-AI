@@ -1,0 +1,21 @@
+[project]
+name = "mcp-ai"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "langchain",
+    "langchain-core",
+    "langchain-community",
+    "langchain-tavily",
+    "tavily-python",
+    "langgraph",
+    "langchain-google-genai",
+    "google-generativeai",
+    "streamlit",
+    "faiss-cpu",
+    "sqlalchemy",
+    "python-dotenv",
+    "ipykernel",
+]
