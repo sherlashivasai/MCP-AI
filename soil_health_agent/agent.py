@@ -51,7 +51,10 @@ class SoilAgent:
         )
         
         return response
-    
+
+"""
+# Test the soil agent
+  
 if __name__ == "__main__":
     soil_agent = SoilAgent()
     
@@ -70,3 +73,5 @@ if __name__ == "__main__":
         
     except Exception as e:
         print(f"An error occurred: {e}")
+    
+"""
