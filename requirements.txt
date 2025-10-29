@@ -1,0 +1,14 @@
+langchain
+langchain-core
+langchain-community
+langchain-tavily
+tavily-python
+langgraph
+langchain-google-genai
+google-generativeai
+streamlit
+faiss-cpu
+sqlalchemy    
+python-dotenv
+ipykernel
+requests
